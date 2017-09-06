@@ -1,0 +1,55 @@
+ Git Commands:
+ -------------
+ -------------
+
+command  1: $git init
+
+command  2: $ git config --global user.name "Nishit Joshi"
+
+command  3: git config --global user.email nishit@example.com (optional)
+
+command  4: $git add .
+
+command  5: $git status
+
+command  6: $git commit (change name and email and remove comments)
+
+command  7: $git remote (Copy path from repository in github account)
+
+command  8: $git push (copy form githhub account)
+
+command  9: touch README.md (open this file and add comment)
+
+command 10: git add .
+
+command 11: git commit
+
+command 12 : git push
+
+   Your commit is complete. 
+
+
+
+command : $git rm --cached (file name) [This comd will remove file after adding to cache]
+
+command : $git add *.html [to add all html files]
+
+command : $git commit -m "commit message" (you can add commit msg directly here)
+
+command: touch .gitignore 
+
+command: touch log.txt [this commad will create log.txt put this log.txt into .gitignore folder]
+
+
+Branches
+---------
+---------
+command: $ git branch login (login is branch name)
+
+command: $ git checkout login (login is branch name)
+
+command: $ git checkout master (this will swith back to master from login branch)
+
+command: $git merge login (it will merge login changes to master branch)
+
+
